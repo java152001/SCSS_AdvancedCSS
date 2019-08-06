@@ -10,7 +10,6 @@
 
     [class^="col-"] {
         float: left;
-        height: $grid-height;
 
         &:not(:last-child) {
             margin-right: $gutter-horizontal;
